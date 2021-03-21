@@ -1,3 +1,5 @@
 # CPP-Projects
+## All my projects made in C++ will be present here
 
-This is a simple TODO list Application using C++ to display the tasks you assigned
+1st  TODO List
+  This is a simple TODO list Application using C++ to display the tasks you assigned
